@@ -1,0 +1,23 @@
+{
+  "Version": "1.0.0",
+  "UUID": "com.ulanzi.icon.StreamlabsDeck",
+  "Author": "Jean Almeida",
+  "Name": "Streamlabs Deck Icon Pack",
+  "Description": "29 icons for Ulanzi Studio: Streamlabs icons for alerts, scenes and stream management, ready to drop onto any key.",
+  "Descriptions": {
+    "en": "29 icons for Ulanzi Studio: Streamlabs icons for alerts, scenes and stream management, ready to drop onto any key.",
+    "pt": "29 ícones para o Ulanzi Studio: ícones do Streamlabs para alertas, cenas e gerenciamento de transmissão, prontos a usar em qualquer tecla.",
+    "es": "29 iconos para Ulanzi Studio: iconos de Streamlabs para alertas, escenas y gestión de transmisiones, listos para cualquier tecla.",
+    "de": "29 Icons für Ulanzi Studio: Streamlabs-Icons für Alerts, Szenen und Stream-Management, bereit für jede Taste.",
+    "fr": "29 icônes pour Ulanzi Studio : icônes Streamlabs pour les alertes, les scènes et la gestion du live, prêtes pour n'importe quelle touche.",
+    "it": "29 icone per Ulanzi Studio: icone di Streamlabs per avvisi, scene e gestione dello streaming, pronte per qualsiasi tasto.",
+    "ru": "29 иконок для Ulanzi Studio: иконки Streamlabs для оповещений, сцен и управления трансляцией, готовые для любой клавиши.",
+    "ja": "Ulanzi Studio 用の29個のアイコン。アラート・シーン・配信管理のStreamlabsアイコンを収録し、どのキーにもすぐに使えます。",
+    "ko": "Ulanzi Studio를 위한 29개의 아이콘: 알림, 장면 및 방송 관리를 위한 Streamlabs 아이콘을(를) 담아 모든 키에 바로 사용할 수 있습니다.",
+    "zh": "29个图标，适用于 Ulanzi Studio：Streamlabs 图标：提醒、场景和直播管理，可直接用于任意按键。"
+  },
+  "Category": "Streaming",
+  "IconCount": 29,
+  "Format": "png",
+  "Animated": false
+}
